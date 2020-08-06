@@ -334,7 +334,7 @@ What are the integration points with Fortinet firewall?
 
 
 
-.. |firewall_network| image:: firewall_network_faq_media/firewall_network.png
+.. |firewall_network| image:: <img width="1262" alt="image" src="https://user-images.githubusercontent.com/69173400/89580666-8f04d880-d7ea-11ea-80a2-1eee33cc6f45.png">
    :scale: 30%
 
 .. |firewall_deploy| image:: firewall_network_faq_media/firewall_deploy.png
